@@ -7,6 +7,8 @@
         <option value="$PROJECT_DIR$/EcomProductService/pom.xml" />
         <option value="$PROJECT_DIR$/EcomPaymenetService/pom.xml" />
         <option value="$PROJECT_DIR$/EcomUserAuthService/pom.xml" />
+        <option value="$PROJECT_DIR$/EcomOrderService/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
